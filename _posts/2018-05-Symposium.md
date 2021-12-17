@@ -102,12 +102,17 @@ pin: true
 
 尽管这种渴望永恒的爱欲不完全合理，但也与最低级的欲望区分，并显出高尚的一面。因为单纯的性欲并不总是渴望永久，而只是求得短暂的身体上快感的满足。这种渴望永恒的爱是人不应被责备的本能，而后来的许多文学艺术作品也正是出于不朽的愿望创造出了一些真正不朽的经典。正如莎士比亚广为流传的第十八首十四行诗的一段所显现的:
 
-But thy eternal summer shall not fade,
-Nor lose possession of that fair thou ow'st;
-Nor shall Death brag thou wander'st in his shade,
-When in eternal lines to time thou grow'st.
-So long as men can breathe, or eyes can see,
-So long lives this, and this gives life to thee.   
+> But thy eternal summer shall not fade,  
+> 
+> Nor lose possession of that fair thou ow'st;  
+> 
+> Nor shall Death brag thou wander'st in his shade,  
+> 
+> When in eternal lines to time thou grow'st.  
+>
+> So long as men can breathe, or eyes can see,  
+>
+> So long lives this, and this gives life to thee.   
 
 
 在必朽的生命中怀着对不朽的渴望，让自己得以创造出了一种不朽的艺术，这看似悖谬的事实或许正来自于人类中那介于其中的奇妙爱欲的成全。
