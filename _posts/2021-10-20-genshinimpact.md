@@ -57,11 +57,16 @@ pin: true
 《原神》刚上线时的米哈游或许被认为是一个打造开放世界游戏同时争议颇多的“新手”，而一年的展开既揭露了这一游戏世界的技术实力、游戏运作与独特的文化底色，也让人看到米哈游的决心与野心。在未来探索更生动的虚拟游戏宇宙上，米哈游将是备受瞩目的先驱。
 
 ## 参考文章
-[旅行者，你为什么来到原神世界 - GameRes游资网](https://www.gameres.com/883787.html)
-[如何在开放世界游戏中营造探索感？要学会充分利用玩家的好奇心](https://mp.weixin.qq.com/s/XoOm3FVPYJumHwuqmgUZ7w)
-[米哈游CEO蔡浩宇GDC演讲：《原神》如何打造动人的开放世界？](http://www.gamelook.com.cn/2021/07/448744)
-[《原神》“出圈”背后：绕不开的优质内容与生态布局](http://www.gamelook.com.cn/2020/11/405372)
-[回望这一年，《原神》做了这三件事](http://www.gamelook.com.cn/2021/09/453013)
+[旅行者，你为什么来到原神世界 - GameRes游资网](https://www.gameres.com/883787.html)  
+
+[如何在开放世界游戏中营造探索感？要学会充分利用玩家的好奇心](https://mp.weixin.qq.com/s/XoOm3FVPYJumHwuqmgUZ7w)  
+
+[米哈游CEO蔡浩宇GDC演讲：《原神》如何打造动人的开放世界？](http://www.gamelook.com.cn/2021/07/448744)  
+
+[《原神》“出圈”背后：绕不开的优质内容与生态布局](http://www.gamelook.com.cn/2020/11/405372)  
+
+[回望这一年，《原神》做了这三件事](http://www.gamelook.com.cn/2021/09/453013)  
+
 
 
 
