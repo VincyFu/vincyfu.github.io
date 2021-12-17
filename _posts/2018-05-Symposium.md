@@ -186,5 +186,4 @@ doi:10.1017/S0048671X-00004069
 [10] Laurie Schneider Adams, A History of Western Art, New York: McGraw-Hill, 2011.  
 
 [11] Martin Kemp, ed., The Oxford History of Western Art, Oxford University Press, 2000 
-![image](https://user-images.githubusercontent.com/44803129/146607413-0300ff5d-9d56-4251-b008-cc7f920c2111.png)  
 
