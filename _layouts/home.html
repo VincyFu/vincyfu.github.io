@@ -52,7 +52,11 @@ layout: page
 
     <div class="post-content">
       <p>
-        {% include no-linenos.html content=post.content %}
+        {% if post.abstract %}
+          {% include no-linenos.html content=post.abstract %}
+        {% else %}
+          {% include no-linenos.html content=post.content %}
+        {% endif %}
         {{ content | markdownify | strip_html | truncate: 200 }}
       </p>
     </div>
