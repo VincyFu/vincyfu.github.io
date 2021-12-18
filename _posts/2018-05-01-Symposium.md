@@ -4,7 +4,7 @@ author: Rao
 categories: ['艺术哲学']
 title: '从《会饮》之爱欲观念出发看西方美术作品'
 tags: ['艺术哲学', '柏拉图']
-pin: true
+pin: false
 ---
 
 
