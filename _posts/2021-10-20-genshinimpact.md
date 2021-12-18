@@ -4,7 +4,7 @@ author: Rao
 categories: ['游戏研究']
 title: '从原神看游戏文化的构建'
 tags: ['原神', '游戏', '剧情']
-abstract: '原神简介'
+abstract: '逐月节之际'
 pin: true
 ---
 
