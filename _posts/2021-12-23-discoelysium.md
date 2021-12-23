@@ -4,7 +4,7 @@ author: Rao
 categories: ['Game Essay']
 title: 'About Disco Elysium: Tequila and Sunset'
 abstract: 'Something has to be remembered, even if it’s in a dream.'
-tags: ['Disco Elysium', 'Game', 'Political Philosophy']
+tags: ['极乐迪斯科', '游戏', '政治哲学']
 pin: true
 ---
 
