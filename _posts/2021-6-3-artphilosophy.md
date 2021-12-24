@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Rao 
-categories: ['艺术哲学']
+categories: ['Philosophy of Art']
 title: '浅谈艺术哲学视角下马奈绘画的现代性'
 abstract: '马奈曾说：“今天的艺术家不会说‘请来观赏完美的画作，而是‘请来观看真挚的作品’。”'
 tags: ['马奈', '艺术哲学', '现代性', '福柯']
