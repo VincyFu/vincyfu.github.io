@@ -9,110 +9,121 @@ pin: true
 ---
 
 
-# 1 Game Mechanics
+# 1 游戏机制
 
-For TRPG fans, _Disco Elysium_ is certainly dear to their hearts, even though TRPG are only the most superficial of experiences in this game.  
+作为跑团爱好者去玩《极乐迪斯科》（Disco Elysium）无疑是亲切的，尽管类似TRPG（Tabletop role-playing game）的跑团玩法只是《极乐迪斯科》最表层的体验。  
 
-_Disco Elysium_ has been described as a milestone for CRPGs, but it is subversive in its gameplay by departing from the previous paradigm of CRPGs. It sacrifices strategy and action, by introducing a TRPG-like adjudication model and placing a premium on worldview values, and role-playing immersion, which together create an organisational effect that differs from the traditional quest orientation.  
+《极乐迪斯科》被称为CRPG的里程碑，但其在玩法上的颠覆性在于背离了CRPG以往的范式，牺牲了策略、操作与战斗，引入类似TRPG的判定模式，并重视价值的塑造、角色扮演的沉浸感，同时通过地图设计、时间系统与任务系统等，创造出不同于传统任务走向的组织效果。  
 
-The characters are initially set up similarly to TRPGs, but simpler, only needing to choose their archetype and set signature skills, which will allow for subsequent access to clues in different ways. Also, what makes it more special than a realistic and flexible TRPG is that after completing the various side quests, the player's values can grow and it will be easier to go back and adjudicate actions that were not passed before.  
+角色在最初的设定类似跑团，但拥有自己独特的人格设定，以及相应的技能与思维。选择不同的人格会影响后续获取线索的不同方式，而在完成了种种支线任务后，玩家数值可以获得成长。游戏中没有任何战斗系统或战斗技能，只有关乎日常生活、人与人交互的系统，但其中的深度与张力却通过多样的技能表现出来，以没有硝烟的思维战争给予玩家挑战性与趣味性。  
 
-The game can be saved and loaded (S/L) at key decisions, and in unpredictable conversations, players can choose to follow their heart or the logic of the clues presented so far. The authenticity of the game is also reflected in the fact that there is no perfect, unique solution. A perfect one-time determination doesn't necessarily lead to a smooth ending, and a determination that hits the wall time and time again isn't necessarily a bad thing - A reliable colleague, Kim, will bring you direction.  
+游戏可以在关键的判定时存档并再次读取（S/L），在无法预知后果的对话中遵从自己的内心或是目前线索呈现的逻辑。游戏的真实性还体现在没有完美的、唯一的解法，完美的一次判定不一定带来顺畅的结局，而极高点数的技能会有副作用，所谓“物极必反”；而次次碰壁的判定也不一定是坏事，靠谱的同事会带给你方向，在获取更多真真假假的信息后，再次进入到情景中，判定的成功率会提高，这来自于个人与世界交互的真实感。  
 
-As an RPG, the biggest controversy with _Disco Elysium_ is that it has little replay value, but that is precisely what makes it so special - the immersion into a grand world through the experience of just one playthrough. As it steps outside of the previously defined paradigm, it is likewise expanding the boundaries of what an RPG can be.  
-
-
-# 2 Game Play Experience: Finding yourself and Understanding reality
-
-## 2.1 The Constructed Self
-
-My initial impression of _Disco Elysium_ was eccentric: the eccentric protagonist - a middle-aged man with a hangover and amnesia, who knows nothing about himself and learns through others that he is a policeman with a badly dressed but seemingly reliable colleague, whose common purpose is to investigate a corpse hanging from a tree.  
-
-The player's initial aim is to know who I am, where I come from and where I am going. In this unknown world, full of newness, contradictions, conflicts and madness, the player learns about himself and about this "strange" world. In dialogue with others and in exploration of the world, the protagonist discovers that his name is Harrier Du Bois, a former star policeman, and that he was, and still is, a sober alcoholic and drug addict when he sees drugs and bottles of alcohol and "gets a taste for them". The traces in the hotel room and on the floor of the harbour are all signs of a previous night of partying. But more than that, the position depends on the player's own choices.  
-
-While it is initially thought that the ultimate goal of the entire game is to investigate the killer of the corpse, the player gradually discovers that the murder is just the tip of the iceberg, a warning, a trigger, behind which lies a complex conflict of interest, the front end of a great dispute. Harrier and Kim Kitsuragi, as police officers, eventually eliminate the "disguised" killer and find the real one, but by then it doesn't matter who, why and how.  
-
-At the end, we have collected many pieces of people and things from this world and put together a complete self. From the hungover state of a blank sheet of paper to a realistic portrayal of what it looks like to be grounded in this world as a self. Although still in a tangled, complicated, frantic and frustrated state at the end, we come to terms with ourselves as such anyway.  
-
-## 2.2 Game and Reality
-
-Disco Elysium, as a game, brings the player a story that is more realistic than reality. A reality that has its roots in the Soviet Union, exists in Eastern Europe now, and will most likely be present anywhere in the future.  
-
-This reality is - the broken walls of Martinaise in 1951, the chaotic neighbourhoods, the rubbish and drugs everywhere; Cuno, the hoody who throws stones at corpses and arrogantly demonstrates to you; Bird's Nest Roy, the pawnshop owner who was part of the EMTs and needs to wear glasses all the time to treat radiation sickness; the bookshop girl who has no chance of education; Measurehead, the Samaritan supremacist who believes he is a super-race in the world; the rich man (Mega Rich Light-bending Guy) in the port container distorted by a high economic coefficient and huge money possession; the art creator living in the boiler room; the worker's wife waiting for her husband to come home, the dead male worker in the fishing village, and us who can't bear to tell this truth.  
-
-Beyond these descriptions, the deeper reality is the pallor and powerlessness of being a player who has experienced and felt all this and found that there is nothing that can be done to change anything. The union boss, who are elected in turn through twin brothers, have become just another "Wild Pines", while the uneducated workers who are on strike under the leadership of the union have no idea what it means to join a board as a group. To add insult to injury, some union members are well aware that the union boss, Evrart Claire, is not "clean" at all, yet believe that this corruption is for the good of all, and that they are even grateful. In this cruel and chaotic world, anything that is noble and pure is considered false and moralistic corruption.  
-
-In such a reality, who am I? Why on earth did Harrier, as the protagonist, become this way? These questions are revealed quite naturally. The detective with a double honour, who has lived through the fall of the Revachol commune, a human purgatory, an economic boom, a disco binge and another economic collapse, the loss of his fiancée, the confusion of reality that leaves him hysterically hungover, shouting "tequila sunset" and finally suffering from retrograde amnesia.  
-
-Chaos repeats itself in Harrier's dreams for seven days, the last day dreaming of his ex-fiancée. When Harrier tries to kiss her, it may or may not work, but in the end it is irrevocable because it was lost long ago. In the years leading up to the amnesia, we can imagine if it was he who went through the torture and trauma of such memories on a daily basis, going on alcohol, drugs and hysteria until oblivion. This is the reality of Harrier's world of Disco Elysium, and the reality of many Eastern European residents.  
-
-As production team ZA/UM say, the prototype for Disco Elysium came from team members who grew up in the former Soviet era - growing up reading Soviet-era science fiction, envisioning a new life in the future, and ultimately witnessing the disintegration of the entire Union. All of this has influenced the presentation of the city of Revachol, a metropolis that has gone through various stages of baptism, from the fall of the royal family to the failure of the revolution. And now, it is controlled by the so-called Free Market Union from abroad. The population is struggling to survive in poverty and losing itself in the clash of differing political views. It is by no means a happy place, but we know it all too well - isn't that what Eastern Europe has been or is going through?
-
-# 3 Power and Rights in Politics
-
-With the whole worldview built up, as a player I am amazed at how straightforward and brilliant the way it touched on "politics" is.  
-
-"The most direct manifestation and means of 'politics' is the form of rule or regime. Revachol is very clearly a mapping of the Soviet Union and Eastern Europe. Whereas the evachol of the past was a monarchy, the present Revachol is the ruins of a failed communist revolution and a liberal economy. After the destruction of the commune, the League of Nations became the masters of Revachol and formed the RCM (Revachol Citizens' Armed Forces) to maintain order in the city in a state of anarchy. From the economic boom of the 1930s to the economic collapse of the 1940s, disco was a lively dance music when it was booming, but today it is a shadow in the daylight in a pale ruin. Violent turmoil, ethnic diversity, the departure of the old order and a new one yet to come, both royalist and communist are lost.  
-
-In the customary Chinese understanding of 'politics', 'politics' is justified, righteous, correct and worthy, and the ruler should have an upright heart to care for the order of the country and to safeguard the interests of the people by means of governance and control.It is ironic that in 'Rewasho', where 'politics' in the sense of polity is least present, the people who live there are deeply influenced by the politics of the past, in terms of ideas and positions, but are ultimately left in the most confused state.  
-
-Further, 'politics' is a game of gaining power or losing it. State politics governs public power, and the attribution of this ruling power is fundamental to politics. In the post-Machiavellian era, political power in the modern era has rarely been about whether or not the acquisition of power is justified; it is human nature to seek power or strength. No matter how insidious or morally illegitimate the purpose, it is the reality of politics to have the initiative to pursue power, to make various resources work for you, and ultimately to acquire and maintain power that does not belong to you.  
-
-In _Disco Elysium_, this quest for power comes through in spades. The player takes on the role of Harrier, a police detective, who goes around to find out the truth about the case; the workers want to strike in order to gain access to the board of directors and participate in the company's decisions; the strikebreakers want to abandon the strike and get their jobs; Joyce, a representative of the Wild Pines cooperates with Harrier and uses each other in order to obtain information; the president of the union uses the hangman to plan a scheme; the scab leader is a disguised mercenary who secretly uses force to coerce the workers in order to organise a military trial against lynchings.  
-
-The vast array of texts and interactions bring to life this vast political intrigue and game. In this decadent land, where races clash, where political positions collide, where there is a struggle to gain money and a modest existence, where there is a struggle to do whatever it takes, where there is a struggle to rack one's brains, where there is a struggle to cheat, this is politics at its best, even if some of the aims are not for power itself.  
-
-  
-  
-
-In the Machiavellian perspective, all the seemingly bad and seemingly good people are neutral in their quest for survival and their own power in this chaotic world. But it is difficult to remain neutral when we are in dialogue with them, when we really feel the circumstances of their lives. The irony of all the power-chasing in Martinaise is that the power acquired here is not real, that power seized in a chaotic polity, in anarchy, does not lead to a better existence. Everyone, like in the ruins of a disco, under a ruined neon billboard, is in the darkest forest state of mutual suspicion and constant fear.  
-
-This goes back to what Hobbes calls the natural state of man, who is not naturally at peace with man, but inclined to conflict, and by nature seeks endless profit and glory. In the absence of a state as a public adjudicator and enforcer, everything is communal and there are no clear and effective laws as boundaries of rights. In Martinaise there is neither an absolute force to be feared through conquest nor a common contract to concede rights out of consent, resulting in a state of nature that cannot be converted into a single will.  
-
-The snowy, broken walls look more like the dust left behind by a blazing fire, the nobility and greatness of the monarchy burned away, but neither did the freedom and common wealth expected by the revolution. The protagonist, Harry, is a doubly glorified detective police, but he is also a ragged drunk with a hangover from the collapse of society. Moments before he collapses, Harry drives his car towards the shore, shouting at the top of his lungs that tequila sunset has arrived and that the time has come for everything to end.  
-
-And the way in which _Disco Elysium_ presents this 'apolitical' politics is very clever. Where do these political interests and identities come from? It comes from the tension between the self and the other. The protagonist wakes up from his hangover, when the world is a blank sheet of paper, and it is through the other that his perception of self becomes clear. All the forces in Revashal too, are engaged in a political struggle through the acquisition of power and status over others. It is in the game with the other that the self gradually acquires political rationality on its way to power and glory. In this state of nature, the ambiguity of the protagonist's name at first is natural. In a world without order there is no need for a symbol to stand on; a name is just a symbol.  
-
-This game, rooted in Soviet history, shows the logic of modern political philosophy in its fullest extent, but it brings me back even more to Aristotle's statement that "man is by nature a political animal". For Aristotle, politics must have a transcendent meaning, a good ruler with good virtues and the public good satisfied. If one does not live in a polity, one is either a self-sufficient god or an animal below man. And is Revachol, and in reality many countries or regions, not precisely a god who is hungover and suffering in the ruins, pinning his hopes on the other side, or reduced to a fallen animal?  
-
-In short, while most games are implicitly and abstractly about politics as a plot element, Elysium Disco is purely about tearing that apart and examining it, exposing some of the most sensitive realities and emotions.  
-
-# 4 Beyond the Game
-
-Revachol is just one of the seven Insulinde metropolises in Elysium, and Martinaise is a very small district under Revachol. It will be interesting to see how the world of Elysium will expand in the future.  
-
-In my search for information about the creative team, I discovered that the name ZA/UM comes from a website set up by one of the creators, Robert Kurvitz, in 2009. The word comes from the famous Russian poet of the "Silver Age", Алексе́й Елисе́евич Кручёных, from the Russian prefix "зá" (beyond) and the noun "умь" (thought), translated in English as "transreason", " transration", "beyonsense". It symbolises a transcendental, soul-derived poetry that has no definite meaning, but represents all transcendence.  
-
-I would say that the game is to the group what the album is to a band, especially a rock band with strong personalities and aspirations. This game world is the embodiment of their personalities, everything they want to say and express is in this game: the Marxist education they received in Estonia, the old and dirty broken walls they lived in, every night with cigarettes and alcohol, mania and depression, and every inch of their past into the sea of memories.  
-
-There is something romantic, artistic and transcendent about presenting these "realities", which are somewhat alien (in textbooks) to many players, in a more poetic form as a game for players around the world. The team had been looking for different vehicles to present this nebulous art - music, painting, fiction books, poetry - until they found the video game, a vehicle that breaks boundaries and expresses itself.
-  
-# 5 Conclusion  
-ZA/UM's announcement for the release of the Chinese version of Disco Elysium says: "Disco Elysium is like the last letter sent by the Soviet Union, painting a picture through science fiction elements and the perspective of the game - it tells you to give up, to give in. There's not a hint of unease or hesitation - Disco Elysium is a dark adventure born of hardship and loss. Yet there are occasional glimmers of light in the cracks, a few moments of friendship in the wreckage, and no shortage of dark humour in the sighs and laments."  
-
-In its relationship to the Soviet Union, Elysium Disco is indeed a depiction of history. History can have coincidences like a roll of the dice, where a chance or a word may change the course of everyone's actions and, in the end, the course of the city and the world. History can also have the powerlessness of not being able to reach it again and again. Nor is history a pale account of every broken heart, every confused soul, with a nostalgic or sentimental view of the past and an unattainable expectation of the future. In the same history, the memories of different people are different footnotes to the history of a city.  
-
-But Disco Elysium is at the same time the reality and the future, a future in which we are not sure if communism will make a comeback. Revachol could be the symbol of any place where dreams are extinguished, any person in any place, be it Estonia where the production team is based, other post-Soviet Eastern European countries, or the disorder and darkness of the past, present and possible future. And the Beat Generation, dancing to the rhythm of disco and sinking into the sweetness of cocktails, is not just the past, but any possible loss of self in the future.  
-
-Writing this always feels as if Elysium Disco as a game would be too heavy, very pessimistic and bleak. But playing slowly and slowly, one gradually discovers what the production team calls the tender core inside the game: Cuno who at first calls you a pig, after seeing that you respect him, will negotiate with you like a little adult, making you bend down and listen to him; when we go out of our way to archive and read multiple judgments just to succeed in singing a song to Kim. When the veteran sits alone on a rock by the shore after the coup conflict, saying that the bastard must have gone to hell while bawling that I still love him, even though we've been enemies all our lives. When we danced disco together in church.  
-
-I felt that it did make my life a little better.  
-
-A while ago, an Disco Elysium player event was held at a record shop in Shanghai, hosted by two young girls who love the game. Hundreds of Disco Elysium players, each showing off their skills for what they love, immersing themselves in a vibrant group, spilling their love and life, and having fun from the heart. There was some improvised singing, some of it worked, some of it was a big flop, but either way it was great because it was very disco. Disco can be crazy, it can be collapsing, but most of all it's gloriously free.  
-
-Doesn't it, it makes our lives, all of us, a little better?    
+作为一款RPG游戏，《极乐迪斯科》最大的争议在于它几乎没有重玩价值，但这恰恰是它的特别之处。当它跳出了以往所界定的范式，也同样在扩充RPG的边界。
 
 
-  
-  
-_Written after 50 hours of snow and wind in Martinaise_  
+# 2 游戏体验：找寻自我、认识现实
+
+## 2.1 被建构的自我
+
+《极乐迪斯科》带给玩家的初印象是聪明而古怪的：古怪的主角——宿醉失忆的中年男人，对自己一无所知，直到通过与别人交流才知道自己是一个警察，目的是调查一具悬挂在树上的尸体，有一个衣品不好但人看起来很靠谱的“跟班”同事。  
+
+玩家最初的目的是希望能知道，我是谁、我从哪里来，我要到哪里去。在这个充满新奇、矛盾、冲突和疯狂的未知世界中，去认知自我、并了解这个“陌生”的世界：在与他人的对话与世界探索中，主角发现自己叫哈里 ·杜博阿（Harrier Du Bois），曾是一个明星警探；在看到毒品和酒瓶“食髓知味”（Electrochemistry）的感觉，证明了自己之前是、甚至现在也是一个酒鬼和毒瘾者。旅店房间里、港口地上的痕迹，都是此前彻夜狂欢的迹象。但在这些表象后更深层次的立场与思维，取决于玩家自身的选择。  
+
+<figure align="center">
+<img src="/Images/Disco1.png" style="width:80%">
+</figure>
+
+尽管最初会认为整个游戏的最终目的是调查尸体的凶手，但玩家会逐渐发现凶杀案只是冰山一角、一个警示、一个导火索，其背后是复杂的利益冲突，是一场巨大纠纷的前端。哈里（Harrier）和金（Kim Kitsuragi）作为警察最后排除了“伪装”的凶手，找到了真正的凶手，但那时候，凶手是谁、为什么杀、怎么杀的，已经全然不重要了。  
+
+在最后，我们已经收集了许多这个世界的人与事物的碎片，拼凑出了一个完整的自我。从一张白纸的宿醉状态到真实描绘出在这个世界立足的自我的样貌。尽管到最后仍然是纠结的、复杂的、疯狂的、沮丧的状态，但我们无论如何都要去面对和接受这样的自己。
+
+
+## 2.2 游戏与现实
+
+《极乐迪斯科》作为一个游戏，带给玩家的却是比现实更现实的故事。这个现实根源于苏联，存在于现在的东欧，也很有可能会在未来任何地方出现。  
+
+这个现实是——1951年瑞瓦肖（Revachol）中马丁内斯的断壁残垣，混乱的街区、随处可见的垃圾与毒品；朝着尸体扔石头并嚣张地向你示威的小混混坤诺（Cuno）；曾经作为紧急救护队一员、需要时刻戴着眼镜治疗辐射病的当铺老板（Bird's Nest Roy）；没有机会接受教育的书店女孩；萨马拉至上主义者(Semenese supremacist）、相信自己是这个世界的超种族的测颅先生（Measurehead）；港口集装箱里被高度经济系数与巨额的金钱占有所扭曲的富人（Mega Rich Light-bending Guy）；住在锅炉房的艺术创作者；等待丈夫回家的工人妻子，渔村中死去的男工人，和不忍将这个真相说出来的我们。  
+
+这种现实本身只是一个画面的展现，但更深刻的现实是作为玩家在经历和感受了这些后，发现根本无法改变任何事情的苍白感和无力感。通过双胞胎兄弟轮流当选的工会会长俨然成为了另一个“野松公司”，而在工会领导下集体罢工的、没有受过教育的工人，根本不知道什么是集体加入董事会。更加可悲的是，有些工会成员很清楚地意识到，会长艾弗拉特（Evrart Claire）根本不是“两袖清风”的，并且认为这种腐败是为了大家的利益，甚至会心存感激。在这个残酷又混乱的世界，任何崇高的、纯洁的东西反而会被认为是虚假的、是道德主义的腐败。  
+
+<figure align="center">
+<img src="/Images/disco2.png" style="width:80%">
+</figure>
+
+在这样的现实中，我是谁？作为主角的哈里尔究竟为什么会变成这样？这些问题很自然地揭示了：这个拥有双重荣誉的警督，经历了瑞瓦肖公社的倒台、人间炼狱、经济繁荣、迪斯科的狂欢以及再一次的经济崩溃。未婚妻的离去、现实的迷惘让他歇斯底里地宿醉，高喊着“龙舌兰日落”，最后患上的逆行性失忆症。  
+
+在哈里七天的梦境里都重复着混乱，最后一天梦到了自己的前未婚妻。当哈里尝试去吻她，可能会成功、可能不会成功，但最终都无法挽回，因为早已失去。在失忆前的几年里，我们可以想象是不是他每天都在经历这样的回忆的折磨与创伤，去酗酒、嗑药，歇斯底里，直到遗忘。这是哈里在极乐迪斯科世界的现实，也是很多东欧居民的现实。  
+
+正如来自爱沙尼亚的制作组所说的：“《极乐迪斯科》的雏形来自于生长于前苏联时代的团队成员——读着苏联时代的科幻作品长大、憧憬未来的新生活，并最终目睹整个联邦的分崩离析。这些都影响了瑞瓦肖这座城市的呈现，这个大都会经历了不同阶段的洗礼，从王室倒台，到革命失败，而现在被所谓的国外自由市场联盟控制。民众在贫穷中艰难求生，在形态各异的政治观点碰撞中迷失自我。这里绝非乐土，但我们却再也熟悉不过——这不就是东欧曾经或者正在经历着的么？”
+
+
+# 3 极乐世界：政治中的权力（power）与权利（rights）
+
+## 3.1 政治的外表：政体的更迭
+
+在整个世界观构建下，作为玩家我会惊叹于它触及“政治”的方式，是如何地直白与精彩。  
+
+“政治”最直接的体现与手段是统治形式或政体（regime），瑞瓦肖非常明显就是苏联与东欧的映射。过去的瑞瓦肖是君主专制国家，而现在的瑞瓦肖是失败的共产主义革命和自由主义经济下的废墟。在公社被摧毁后，国际联盟成为瑞瓦肖的主人，并成立RCM（瑞瓦肖公民武装）以维持这城市在无政府状态下的秩序。从30年代经济的繁荣到40年代的经济崩溃，迪斯科在繁荣时是活泼的舞曲，而今是一片苍茫的废墟中白昼下的阴影。剧烈的动荡、多元的种族、旧秩序离开与新秩序尚未到来，不同立场的人们都在迷失，无论是保皇派还是康米主义者。  
+
+以中国惯有对“政治”的理解，“政治”是有正当的、正义的、正确的、正值的，统治者应有正直的心去关心国家的秩序，以治理与管制的手段去维护人民的利益。令人讽刺的是，在极乐世界“瑞瓦肖”中，恰恰是最不存在政体意义上的“政治”的，但生活在其中的人们都深受过往政治的影响，但最终只剩下最迷茫的状态。  
+
+## 3.2 政治的内核：权力的游戏  
+
+更进一步，“政治”是关于获取权力与失去权力的游戏。国家政治管理公共权力，而这一统治权力的归属是政治的根本。在马基雅维利后，近现代的政治权力很少去考虑权力的获得是否是正当的，人的本性就是一种追求权力或力量，而政治就是不管出于多么阴险的或在道德上不正当的目的，只要有主动性去追求权力、让各种的资源为你服务，并最终获取并维持本来不属于你的权力，就是好的政治。  
+
+在《极乐迪斯科》里，玩家扮演的警探哈里为了探查案件的真相去到处走访，工人们希望通过罢工以获得进入董事会、参与公司决策的权利，工贼希望放弃罢工、获得工作，野松公司的代表乔伊斯为了获取情报则与哈里进行合作、互相利用，工会会长利用吊人策划了一个谋局，而工贼头子是乔装打扮的雇佣兵、秘密地用武力胁迫工人以组织一场针对私刑的军事审判……  
+大量的文本与互动将这个巨大的政治阴谋与博弈展现地淋漓尽致。在这片颓丧的土地，种族冲突、政治立场的碰撞，为了获得金钱、获得苟且的生存去抗争、去不择手段，去绞尽脑汁、尔虞我诈，这就是政治最淋漓尽致的体现，尽管有些行为的目的甚至不是为了权力本身。  
+
+## 3.3  
+
+在“马基雅维利”的视角下，所有看似坏、看似好的人都是在这个乱世追求生存、追求自己权力的中立的行为。但我们在与他们对话，真实地感受他们生活的环境时，很难去保持中立的立场。在马丁内斯所有的权力追逐都是讽刺的，这里获取的权力并非是真实的，一个混乱政体、无政府状态下夺得的权力并不能带来更好的生存环境。每个人像在迪斯科的遗址上、废旧的霓虹灯广告牌下，在最黑暗森林的状态去互相猜忌、时刻恐惧。  
+
+这恰恰回到了霍布斯所说的人的自然状态：人在自然上并非与人和平相处、而是倾向于冲突，在本性上追求的就是无止境的利益与荣耀。在缺乏一个作为公共裁决者和执行者的国家时，一切事物都是公有，没有明确的、有效力的法律作为权利界限。在马丁内斯，既没有一个绝对的武力通过征服让人们畏惧，也没有出于同意的共同契约去让渡权利，导致自然状态无法被转换为单一意志的国家。  
+
+飘着风雪的断壁残垣更像是熊熊烈火燃烧后留下的灰尘，君主专制下的崇高和伟大被燃烧殆尽，但革命骐骥的自由与共同富裕也没有到来。主角哈里作为获得双重荣耀的警探，也不过是一个在崩溃的社会宿醉后浑浑噩噩又衣衫褴褛的醉鬼。在醉倒的前一刻，哈里开着车冲向海岸，声嘶力竭地喊龙舌兰日落到了，一切结束的时候到了，嚎啕大哭。  
+
+而《极乐迪斯科》呈现这种“无政治”下的政治的方法是十分巧妙的。这种政治性的利益与身份的认同从何而来？正是来自于自我与他者的张力。主角从宿醉中醒来，在世界一片白纸的时候，是通过他人逐渐清晰对自我的认知。瑞瓦肖所有的势力，也都在通过获得超越于他人的权力与地位而进行政治的斗争。在与他者的博弈中，自我在追求权力与荣耀的路上才逐渐获得政治理性。在这种自然状态下，主角在最初名字的模糊性是很自然的。在一个没有秩序的世界不需要一个符号来立足，名字就只是一个符号。  
+
+这个充满着苏联映射的游戏，拥有大量近现代的政治哲学展现得淋漓尽致之事，却反而让我更加回到了亚里士多德所说的“人是政治的动物”。在亚里士多德看来，政治一定是有超越性的意义的，好的统治者具有好的德性，公共利益得以满足。如果不生活在一个政体中，要么是自足的神，要么是低于人的动物。而瑞瓦肖，和现实中许多的国家或地区，是不是正是一个在废墟中宿醉、痛苦，将自己的希望寄托于彼岸的神，或在现实中沦为一个堕落的动物呢？  
+
+总之，在大部分游戏仍是含蓄地、抽离地将政治作为一个剧情元素谈论时，《极乐迪斯科》很纯粹地将这些撕碎、剖开来审视，揭露出最敏感的现实和情感，并吸引玩家去思考。  
+
+
+# 4 超出游戏外  
+
+ZA/UM制作组关于世界观的解读会让人发现，瑞瓦肖不过是极乐世界中的七个伊苏林（Insulinde）的一座都市，而马丁内斯又是瑞瓦肖下属一个很小的区。未来极乐世界究竟会如何拓展是非常值得期待的。  
+
+在我搜寻有关这个主创团队的信息时发现，ZA/UM制作组的名字来源于主创之一Robert Kurvitz在2009年建立的一个网站。这个词来自俄罗斯“白银时代”的著名诗人阿列克谢·叶利谢耶维奇·克鲁奇尼赫（Aleksei Yeliseyevich Kruchyonykh  Алексе́й Елисе́евич Кручёных），由俄文的前缀“зá”（超越）和名词“умь”（思想）构成，英译为“transreason”、“transration”、“beyonsense”。它象征着一种超越式的、来自于灵魂的诗意，并无确定的含义，却代表着一切超验性。  
+
+这种强烈的个性让我感受到这个游戏之于团队就像是音乐之于一个乐队，尤其是带有强烈个人色彩与诉求的乐队。这个游戏世界就是他们个性的化身，他们想说的、想表达的，都在这个游戏中：把自己在爱沙尼亚受到的马克思主义的教育、生活过的陈旧肮脏的断壁残垣，每个香烟与酒、狂躁与抑郁伴随的夜晚，去投入到过往的每一寸回忆的海洋。  
+
+这些离许多玩家有点陌生（在教科书）上的“现实”，以一种更诗意的形式作为游戏呈现在全世界玩家的面前，是一件很浪漫、很艺术、很超越现实的事情。制作组们本来在寻求各种不同的载体，试图把这一个虚无缥缈的艺术呈现出来。音乐、绘画、小说集、诗歌，直到寻找到了电子游戏，这个更能打破国界的表达载体。  
+
+# 5 结语
+
+ZA/UM中文版的通告说到：“《极乐迪斯科》就像是苏联寄出的最后一封信笺，通过科幻元素和游戏视角诉描绘了这样一幅画面——它告诉你说，放弃吧，屈服吧。我们没有丝毫不安与犹疑——《极乐迪斯科》就是一款生于磨难与失落的黑暗冒险。然而，细碎夹缝间偶有一丝光亮，残垣断壁处尚存几分友谊，唏嘘慨叹中不乏黑色幽默。”  
+
+在与苏联的关系上，《极乐迪斯科》的确是一个描绘历史的作品。历史会有像掷骰子投点一般的巧合——一个偶然或一句话语可能改变了每个人的行动轨迹，乃至最后这个城市和世界的走向；历史也会有一次次无法达到的无力感。历史也不是苍白的记载，是每一个破碎的心灵、迷茫的灵魂，对过去有怀念或感伤，对未来有不可实现的期盼。在同一个历史中，不同的人的回忆是对于一个城市的历史不同的注脚。  
+
+但《极乐迪斯科》同时也是现实与未来，我们不确定在未来康米主义是否会卷土重来。瑞瓦肖可以是任何梦想熄灭的地方，任何地方里的任何人。不论是主创团队所在的爱沙尼亚、其他苏联解体后的东欧国家，还是过去、现在、未来可能存在的无序与幽暗。而那些随着迪斯科的节奏舞动，在鸡尾酒的甜美中沉沦的“垮掉一代”，也绝不仅仅是过去，而是未来任何可能的丧失自我。  
+
+<figure align="center">
+<img src="/Images/disco3.png" style="width:80%">
+</figure>
+
+写到这里总感觉《极乐迪斯科》作为游戏会不会太过沉重，太过悲观和苍凉。但慢慢地玩、慢慢地玩，会逐渐发现制作组所说的游戏里面的tender core：一开始骂你猪猡的坤诺，在看到你尊重他之后，会像一个小大人一样跟你谈判，让你弯腰低头听他说话；当我们不惜存档读取多次判定，只为了成功地给金唱一首歌；当我们看到在政变冲突后，老兵一个人坐在海岸边的石头上，一边说那个混蛋一定是下地狱去了吧，另一边嚎啕大哭说我还是很喜欢他的，虽然我们当了一辈子仇人；当我们一起在教堂里跳disco，在灯球和破碎的色彩中想享受一刻的极乐。  
+
+我感觉，它让我的生活确实好一点了。  
+
+听闻前段时间在上海举办了《极乐迪斯科》同人活动，非常遗憾在国外没有能参加。活动记录几百个极乐迪斯科的玩家，各自为了热爱的事物大显身手，尽情地挥洒自己的爱和生命，发自内心的快乐。有些自发的演唱，有些成功，有些失败，但无论哪种都很好，因为这很迪斯科。迪斯科可以疯狂，可以垮掉，但最重要的是绚烂的自由。沉浸在一个个充满生气的群体中，尽情地挥洒自己的爱和生命。  
+
+是不是，它让我们的生活，都好一些了。
+
+
+ 
+_写50小时马丁内斯的雨雪后_   
+
+_伦敦_
 
 _23 Dec 2021_
-
-
-
-
-
-
-
-
