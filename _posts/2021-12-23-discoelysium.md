@@ -2,8 +2,8 @@
 layout: post
 author: Rao 
 categories: ['Game Essay']
-title: 'About Disco Elysium: Tequila and Sunset'
-abstract: 'Something has to be remembered, even if it’s in a dream.'
+title: '《极乐迪斯科》：献给痛苦的龙舌兰日落'
+abstract: '苍凉外表下纤柔的内心。'
 tags: ['极乐迪斯科', '游戏', '政治哲学']
 pin: true
 ---
