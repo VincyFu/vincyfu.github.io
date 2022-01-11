@@ -67,15 +67,15 @@ pin: false
   
   
 ### 参考文献  
-1. Aristotle, Politics, trans.C.D.C Reeve, Hackett Publishing Company, 1998.  
+[1] Aristotle, Politics, trans.C.D.C Reeve, Hackett Publishing Company, 1998.  
 
-2. Aristltle, Poetics. Introductio, commentary and appendixes by D.W. Lucas. Oxford: Oxford University Press.  
+[2] Aristltle, Poetics. Introductio, commentary and appendixes by D.W. Lucas. Oxford: Oxford University Press.  
 
-3. 陈斯一：《亚里士多德论诗乐教育》，载《北京大学教育评论》，2019年1月第17卷第1期；
+[3] 陈斯一：《亚里士多德论诗乐教育》，载《北京大学教育评论》，2019年1月第17卷第1期；
 
-4. 渠敬东：《教育的自然基础：解读<爱弥儿>前三卷》，北京师范大学首届教育社会学论坛；  
+[4] 渠敬东：《教育的自然基础：解读<爱弥儿>前三卷》，北京师范大学首届教育社会学论坛；  
 
-5. 李猛：《指向事情本身的教育：奥古斯丁的<论教师>》，《教育与现代社会》思想与社会第七辑。
+[5] 李猛：《指向事情本身的教育：奥古斯丁的<论教师>》，《教育与现代社会》思想与社会第七辑。
 
 
 
