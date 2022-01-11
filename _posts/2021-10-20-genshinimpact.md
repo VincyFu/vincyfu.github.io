@@ -2,7 +2,7 @@
 layout: post
 author: Rao 
 categories: ['Game Essay']
-title: '从原神看游戏文化的构建'
+title: '从《原神》看游戏文化的构建'
 tags: ['原神', '游戏', '剧情']
 abstract: '逐月节之际'
 pin: false
