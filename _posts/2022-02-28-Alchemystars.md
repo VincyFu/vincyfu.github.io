@@ -74,7 +74,7 @@ pin: true
 </figure>  
 
 <figure align="center">
-<img src="/Images/as17.jpg" style="width:100%">
+<img src="/Images/as17.1.jpg" style="width:100%">
 </figure>  
 
 <figure align="center">
