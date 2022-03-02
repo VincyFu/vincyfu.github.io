@@ -5,7 +5,7 @@ categories: ['Game Essay']
 title: '《极乐迪斯科》：献给痛苦的龙舌兰日落'
 abstract: '去发现悲凉外表下纤柔的内心。'
 tags: ['极乐迪斯科', '游戏', '政治哲学']
-pin: true
+pin: false
 ---
 
 
